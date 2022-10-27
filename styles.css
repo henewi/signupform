@@ -79,6 +79,8 @@ body {
 
 .midsection {
     font-family: sfpro;
+    justify-content: center;
+    display: grid;
 }
 
 .botsection {
@@ -95,4 +97,10 @@ body {
 #forms {
     display: grid;
     padding: 10vh;
+}
+
+.loginbox {
+    border-radius: 1vh;
+    max-width: 10vw;
+    margin: 1vh;
 }
