@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.photo {
+    max-width: 30vw;
+    padding: 0;
+    margin: 0;
+}
+
+.main-body {
+    background-color: white;
+    z-index: 999;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: vw;
+}
+
+.matterhorn {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    object-fit: cover;
+    max-height: 100vh;
+    z-index: 1;
+}
