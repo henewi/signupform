@@ -153,3 +153,15 @@ body {
     font-family: sfpro;
     border: none;
 }
+
+#already {
+    display: flex;
+    justify-content: center;
+    margin-top: 6vh;
+    font-size: 2.3vh;
+}
+
+#signin {
+    margin-left: .5vw;
+    color: rgb(255, 39, 10);;
+}
