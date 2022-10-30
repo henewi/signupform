@@ -85,6 +85,10 @@ body {
 
 .botsection {
     font-family: sfpro;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 5vh;
 }
 
 #midtitle {
